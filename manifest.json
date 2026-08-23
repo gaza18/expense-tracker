@@ -1,0 +1,31 @@
+{
+  "name": "Expense Tracker & Budget Plotter",
+  "short_name": "Expense Tracker",
+  "description": "Lacak pengeluaran, atur plotting anggaran per kategori, dan pantau skor kesehatan keuanganmu.",
+  "start_url": "./expense-tracker.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#08090b",
+  "theme_color": "#08090b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
